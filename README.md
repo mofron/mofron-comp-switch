@@ -1,2 +1,2 @@
-# mofron-parts-switch
-switch component for mofron
+# mofron-comp-switch
+Switch Component for mofron
